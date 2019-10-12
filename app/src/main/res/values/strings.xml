@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guia4</string>
+    <string name="nombre">Cesar Alexander Peñate Solis</string>
+    <string name="codigo">PS15-I04-002</string>
+    <string name="tituloDatos">Mis datos</string>
+    <string name="ValidarNombre">Escriba el nombre</string>
+    <string name="ValidarOrganizacion">Escriba la organizacion</string>
+    <string name="ValidarTelefono">Escriba telefono</string>
+    <string name="Tamanio">Tamaño 8 caracteres</string>
+</resources>
